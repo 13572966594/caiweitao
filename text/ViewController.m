@@ -34,7 +34,7 @@
 
 
 -(void)motionEnded:(UIEventSubtype)motion withEvent:(UIEvent *)event{
-    NSLog(@"摇动了啊");
+    NSLog(@"摇动了");
 }
 
 @end
